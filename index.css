@@ -1,0 +1,28 @@
+body {
+    background-image: url(img/viat.jpg);
+    color: rgba(105, 0, 0, 0.959);
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+h1 {
+    font-size: 50px;
+    
+}
+a {
+    color: rgb(234, 2, 2);
+    font-size: 20px;
+    padding: 70px;
+    font-size: 30px;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+    line-height: 30px;
+    border: 1px solid rgb(0, 81, 128);
+}
+img {
+    width: 600px;
+    height: 800px;
+}
